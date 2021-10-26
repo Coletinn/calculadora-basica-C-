@@ -1,0 +1,13 @@
+C:\workspaces\ws-temp\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\workspaces\ws-temp\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\workspaces\ws-temp\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\workspaces\ws-temp\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\workspaces\ws-temp\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.AssemblyReference.cache
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\workspaces\ws-temp\Course\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache
